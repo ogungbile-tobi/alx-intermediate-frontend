@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (max-width: 600px) {
+  main{
+    grid-template-columns: 1fr !important; /* Stacks columns on smaller screens */
+  }
+}
