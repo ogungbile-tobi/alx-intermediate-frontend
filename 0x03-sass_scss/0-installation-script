@@ -1,0 +1,24 @@
+1. Go to Sass-lang.com
+
+To install Sass You need Node js installed on your device
+Go to https://nodejs.org/en/download/ and install it on your device
+
+I have already installed on my device
+
+2. Open command prompt and
+Type this command
+
+npm install -g sass [This will install sass gloabally on your device]
+
+3. Open VS code
+Search in Marketplace Live SASS compiler
+
+4. Install it
+
+5. While working on Project create filename.scss and click on watch sass
+
+This will create 2 files filename.map.css and filname.css
+Link filename.css with your html documnet
+
+6.Now write SASS code in filename.scss it will be compiled in filename.css
+Done
