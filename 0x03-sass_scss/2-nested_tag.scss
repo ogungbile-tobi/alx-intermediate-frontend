@@ -1,0 +1,10 @@
+// Reset body spacing
+body {
+  margin: 0;
+  padding: 0;
+
+  // Apply margin to all paragraphs inside body
+  p {
+    margin: 10px;
+  }
+}
